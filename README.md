@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**k3forx/k3forx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="https://github.com/k3forx/k3forx/">
+    <img src="https://komarev.com/ghpvc/?username=k3forx" alt="k3forx" />
+  </a>
+  <a href="https://github.com/k3forx">
+    <img height="20" src="https://img.shields.io/github/followers/k3forx?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/k3forx">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/k3forx/posts.svg" />
+  </a>
+  <//qiita.com/k3forx">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/k3forx/contributions.svg" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k3forx&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
