@@ -1,16 +1,11 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Kanata Miyahana</h1>
+<h3 align="center">Backend and infrastructure engineer in Tokyo</h3>
 
-<p align="left">
-  <a href="https://github.com/k3forx/k3forx/">
-    <img src="https://komarev.com/ghpvc/?username=k3forx" alt="k3forx" />
-  </a>
-  <a href="https://github.com/k3forx">
-    <img height="20" src="https://img.shields.io/github/followers/k3forx?label=follow&logo=github&style=flat" />
-  </a>
-  <a href="http://qiita.com/k3forx">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/k3forx/posts.svg" />
-  </a>
-</p>
+- 🌱 I’m currently interested in **DevSecOps (providing high quality and secure software rapidly)**
+
+- 📝 I regularly write articles on [https://qiita.com/kanata333](https://qiita.com/kanata333)
+
+- 📄 Know about my experiences [https://job-draft.jp/user/resume](https://job-draft.jp/user/resume)
 
 ## My Activities
 
@@ -68,8 +63,6 @@
 <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
 <a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
-
-## Summary
 
 ## References
 
