@@ -13,3 +13,13 @@
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k3forx&count_private=trueshow_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## Language
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k3forx)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=k3forx)](https://github.com/ryo-ma/github-profile-trophy)
+
+## References
+
+- https://github.com/ryo-ma/github-profile-trophy#quick-start
